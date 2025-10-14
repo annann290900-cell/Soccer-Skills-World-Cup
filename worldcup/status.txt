@@ -3,7 +3,7 @@ frontname(WORLD CUP)
 
 name(World Cup)
 
-team(Argentina,100,320,587)
+team(Argentina,5,320,587)
 team(Australia,5,1123,538)
 team(Belgium,5,587,147)
 team(Brazil,5,360,460)
